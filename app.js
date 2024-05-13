@@ -40,7 +40,7 @@ searchBtn.addEventListener("click", () => {
 
 
 // <!-- this code is a 2nd step that i need to learn in future -->
-//     const apiKey = "ff6a2d25a6910cee5099934a8d7fc5c3";
+//     const apiKey = "";
 //     const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 //     const searchBox = document.querySelector(".search input");
@@ -64,7 +64,7 @@ searchBtn.addEventListener("click", () => {
 
 
 // <!-- this code is a 1st step that i need to learn in future -->
-//     const apiKey = "ff6a2d25a6910cee5099934a8d7fc5c3";
+//     const apiKey = "";
 //     const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=dhaka";
 
 //     async function checkWeather(){
